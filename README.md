@@ -6,7 +6,7 @@
 
 ## 🖼 Preview
 
-![Mouse Trail Demo](./media/basic-trails-demo.gif.gif)
+![Mouse Trail Demo](./media/basic-trails-demo.gif)
 
 ---
 
