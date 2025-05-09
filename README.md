@@ -18,7 +18,7 @@ This project is written in plain HTML, CSS, and JavaScript, and uses the GSAP li
 
 1. Clone or download the repo:
 ```bash
-git clone https://github.com/yourname/basic-trails.git
+git clone https://github.com/suzubu/basic-trails-effect.git
 ```
 
 2. Open `Trails.html` in your browser.
