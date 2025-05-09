@@ -71,4 +71,4 @@ MIT — free to use, remix, and share.
 
 ## 🙋‍♀️ Author
 
-Made by [Suzy Dev](https://github.com/suzubu) — built for fun, demo, or inspiration!
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu)
