@@ -1,4 +1,4 @@
-# 🎯 Basic Trails
+# 🎯 Basic Trails Feature
 
 > A simple interactive demo that creates animated trailing circles following the user's mouse cursor using GSAP.
 
